@@ -52,6 +52,26 @@ dependencies {
     implementation name : "jasperreports-javaflow"
     implementation name : "commons-javaflow"
     implementation name : "jasperreports-fonts-6.2.2"
+    // https://mvnrepository.com/artifact/net.sf.barcode4j/barcode4j
+    implementation name: 'barcode4j-2.1'
+    implementation name: 'core-2.2'
+    implementation name: 'batik-bridge-1.8'
+    implementation name: 'batik-anim-1.14'
+    implementation name: 'batik-svg-dom-1.7'
+    implementation name: 'batik-dom-1.7'
+    implementation name: 'batik-util-1.8'
+    implementation name: 'svg-1.1.0'
+    implementation name: 'batik-css-1.14'
+    implementation name: 'batik-xml-1.8'
+    implementation name: 'dom-2.3.0-jaxb-1.0.6'
+    implementation name: 'xml-apis-1.4.01'
+    implementation name: 'batik-script-1.7'
+    implementation name: 'batik-gvt-1.14'
+    implementation name: 'batik-awt-util-1.7'
+    implementation name: 'sac-1.3'
+    implementation name: 'org.w3c.dom.smil-1.0.0'
+    implementation name: 'batik-parser-1.7'
+    implementation name: 'xmlgraphics-commons-1.5'
 
     // https://mvnrepository.com/artifact/javax.ws.rs/javax.ws.rs-api
     implementation group: 'javax.ws.rs', name: 'javax.ws.rs-api', version: '2.1.1'
